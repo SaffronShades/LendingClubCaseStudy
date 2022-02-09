@@ -37,7 +37,6 @@ This company is the largest online loan marketplace, facilitating personal loans
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was created as a case study assignment for UPGRAD & IIIT-B EDA module
 
 
